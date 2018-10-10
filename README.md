@@ -14,3 +14,4 @@ Because Apartments.com is consistently structured across all apartment buildings
 * Rather than selecting URLs manually, I need to figure out a way to automatically grab buildings of interest
 * Incorporate the Zillow API so the data includes for rent by owner and relevant neighborhood metadata
   * If this works, I can start doing some cool data analysis!
+* Create a "true cost of moving" calculator that adds fees to first month's rent
